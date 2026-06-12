@@ -363,6 +363,8 @@ Formal verification of university portal workflows using UPPAAL.
 <img src="https://img.shields.io/badge/GitHub-Open_Source-181717?style=for-the-badge&logo=github"/>
 </a>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Shivansh0625?theme=dark&font=Poppins)
+
 </div>
 
 ---
@@ -380,6 +382,16 @@ Formal verification of university portal workflows using UPPAAL.
 </div>
 
 ---
+
+## GitHub Achievements
+
+<p align="center">
+  🏅 YOLO Achievement
+  <br>
+  🏅 Quickdraw Achievement
+</p>
+
+</div>
 
 # GitHub Trophies
 
