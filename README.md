@@ -326,31 +326,6 @@ Formal verification of university portal workflows using UPPAAL.
 
 ---
 
-# Certifications
-
-## AWS
-
-![](https://img.shields.io/badge/AWS-Learning_Path-232F3E?style=for-the-badge&logo=amazonaws)
-
-## Oracle
-
-![](https://img.shields.io/badge/Oracle-Database_&_Java-FF0000?style=for-the-badge&logo=oracle)
-
-## NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Continuous_Learning-blue?style=for-the-badge)
-
-## Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
-
-## Additional
-
-![](https://img.shields.io/badge/Bubble.io-Web_App_Development-8B5CF6?style=for-the-badge)
-![](https://img.shields.io/badge/Cybersecurity_Fundamentals-Tech_Mahindra-6366F1?style=for-the-badge)
-
----
-
 # Coding Profiles
 
 <div align="center">
