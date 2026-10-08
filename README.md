@@ -123,7 +123,7 @@ AI-powered child safety platform leveraging on-device inference, prompt engineer
 | Category | Details |
 |----------|----------|
 | Stack | Spring Boot, Java, REST APIs, AI |
-| Scale | Real-Time Inference |
+| Scale | Real-Time Inference | 
 | Performance | Low Latency Processing |
 | Security | Privacy Preserving Architecture |
 | Impact | Child Safety Intelligence |
